@@ -1,5 +1,12 @@
 # MADPractical-4_21012012008
 
+AIM- What is Intent? Write down types of Intent and types of Intent 
+Action. Create an application which demonstrates implicit Intent for
+following features and also create different activities and demonstrate 
+explicit Intent. Use parent theme Theme.Material3.Dark.NoActionBar 
+for Dark theme and Theme.Material3.Light.NoActionBar for Light Theme.
+
+
 ![image](https://user-images.githubusercontent.com/110628046/191418966-ccfab47d-af9d-4def-9844-c0f279009a7f.png)
 
 -![image](https://user-images.githubusercontent.com/110628046/191419698-2f37fcfd-3b70-4fc6-b26f-396e552492f9.png)
